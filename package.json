@@ -1,0 +1,16 @@
+{
+  "name": "notificador-sns",
+  "version": "1.0.0",
+  "description": "Notificador de \u001b[1;\u001b[para o Serviço AWS \u001b[1;5D\u001b[1;5D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C SNS da AWS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.430.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
